@@ -12,3 +12,5 @@ Ce projet contient un tableau de bord réalisé avec **Mode Analytics** pour ana
 
 ## 👩‍💻 Réalisé par
 Leila Smiai – Étudiante en Data Science
+## lien
+https://app.mode.com/leilamodecom/reports/bf92b4be02f1
